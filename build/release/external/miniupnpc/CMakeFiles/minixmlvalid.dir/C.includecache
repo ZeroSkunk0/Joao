@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zero/bin/CryptonoteEvo3-CLI/external/miniupnpc/minixml.c
+string.h
+-
+minixml.h
+/home/zero/bin/CryptonoteEvo3-CLI/external/miniupnpc/minixml.h
+
+/home/zero/bin/CryptonoteEvo3-CLI/external/miniupnpc/minixml.h
+
+/home/zero/bin/CryptonoteEvo3-CLI/external/miniupnpc/minixmlvalid.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+minixml.h
+/home/zero/bin/CryptonoteEvo3-CLI/external/miniupnpc/minixml.h
+
